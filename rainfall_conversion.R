@@ -1,3 +1,4 @@
+
 #A library to perform rainfall unit conversions
 
 inches_to_mm <- function(inches){
@@ -9,4 +10,4 @@ inches_to_mm <- function(inches){
 
 	return(mm)
 }
-#Hi Meg :)[TODO: developer Add inches to cm conversion function]
+[TODO: Team lead] Hire a new developer
